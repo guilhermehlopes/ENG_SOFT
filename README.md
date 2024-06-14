@@ -37,4 +37,4 @@ Economia no tempo de execução da tarefa que passou de 16 horas para 5,5 horas.
 ## Conclusão
 Conseguimos obter resultado positivos com ferramentas que já tínhamos sem necessariamente fazer investimentos.  Projeto Implementado e bem aceito.
 
-![](./quali.png)
+![](./quali.jpg)
