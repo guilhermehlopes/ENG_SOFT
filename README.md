@@ -14,7 +14,7 @@ A validação de dado é um processo manual que necessita diversos passos repeti
 
 ## Fluxograma do Processo
 
-![](./image.png)
+![](./fluxo.png)
  
 
 ## Solução Proposta
